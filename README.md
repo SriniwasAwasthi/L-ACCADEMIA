@@ -195,17 +195,16 @@ Click or open the local link generated in your terminal:
 
 ## 💖 A Heartfelt Thank You
 
-> ### 🌟 Thank You for Visiting L'ACCADEMIA!
+> ### 🌟 Thank You for Visiting L'ACCADEMIA! 💖✨
 > 
-> To every **student**, **scholar**, **instructor**, **developer**, and **reviewer** who took their precious time to visit and explore this repository:
+> Thank you so much for dropping by and spending your precious time exploring my profile and repository! 💖  
+> It truly means the world to me that you took a moment out of your day to read through my work and journey. 🌿✨  
 > 
-> **Thank you from the bottom of my heart!** ❤️
+> I hope you found something here that inspired you or brought a smile to your face! 🚀  
+> Building and learning is a journey I cherish, and knowing you took the time to read through it makes it all the more special. 💫  
 > 
-> Creating **L'ACCADEMIA** was a labor of love—bringing together the timeless elegance of the Italian Renaissance and the boundless possibilities of Artificial Intelligence. Your support, curiosity, and feedback mean the world to us.
-> 
-> If you enjoyed this project, please consider giving it a ⭐️ **Star** on GitHub!
-> 
-> *May your journey of learning be as harmonious as the Golden Ratio.* 🎨✨
+> 🌈 If you enjoyed what you saw, feel free to connect or leave a star ⭐️  
+> Wishing you endless success and brightness in everything you do! 🚀✨ Have a fantastic day ahead! 💖🚀
 
 ---
 
