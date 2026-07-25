@@ -10,7 +10,7 @@
 
 ---
 
-![L'Accademia Hero Showcase](./public/images/hero-renaissance.jpg)
+![L'Accademia Hero Showcase](./assets/screenshots/hero-salon.png)
 
 ---
 
@@ -110,14 +110,14 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
   * Conversational AI chat with real-time response generation.
   * Quick inquiry suggestion pills (e.g., *"How does linear perspective relate to attention heads?"*).
 
-![Socrates AI Tutor Engine](./public/images/statue-ai.jpg)
+![Socrates AI Tutor Engine](./assets/screenshots/socrates-lms.png)
 
 ### 3. 🎨 Live Syllabus Architect Workshop (`CreatorBottega.tsx`)
 * Generative AI syllabus authoring blueprint.
 * Real-time module generator form with instant model addition and deletion.
 * **Chiaroscuro Cognition Metrica**: Live analytics dashboard tracking learner retention (94.2%) and active scholars.
 
-![Vitruvian Technical Equilibrium](./public/images/vitruvian-tech.jpg)
+![Creator Bottega Engine](./assets/screenshots/creator-bottega.png)
 
 ### 4. 🎓 The Masterclass Salon (`CourseSalon.tsx`)
 * Curated catalog of masterclasses:
@@ -127,7 +127,7 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
   4. *Alchemical Data Visualization & Web Dashboards*
 * Filter by category (*All*, *AI & Geometry*, *Design & UX*, *Systems & Logic*).
 
-![Botanical Astronomy & Knowledge Systems](./public/images/botanical-astronomy.jpg)
+![Masterclass Salon Grid](./assets/screenshots/masterclass-salon.png)
 
 ### 5. 🏆 Pedagogical Pillars & Comparison (`PillarsSection.tsx` & `ComparisonSection.tsx`)
 * Interactive tabs exploring Socratic Dialectic, Sensory Typography, and Guild Bottegas.
@@ -143,10 +143,10 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
 
 | Visual Canvas | Topic & Description |
 | :---: | :--- |
-| ![Hero](./public/images/hero-renaissance.jpg) | **The Grand Renaissance Salon**: High-contrast Garamond storytelling and interactive workspace preview. |
-| ![Statue AI](./public/images/statue-ai.jpg) | **Socrates AI Tutor**: 24/7 conversational mentor guiding students through dialectical inquiry. |
-| ![Vitruvian](./public/images/vitruvian-tech.jpg) | **Vitruvian Technical Equilibrium**: Proportional balance and structural systems engineering. |
-| ![Botanical](./public/images/botanical-astronomy.jpg) | **Alchemical Data Visuals**: Classical scientific diagrams married with modern web mechanics. |
+| ![Hero Salon](./assets/screenshots/hero-salon.png) | **The Grand Renaissance Salon**: High-contrast Garamond storytelling and interactive workspace preview. |
+| ![Socrates AI](./assets/screenshots/socrates-lms.png) | **Socrates AI Tutor**: 24/7 conversational mentor guiding students through dialectical inquiry. |
+| ![Creator Bottega](./assets/screenshots/creator-bottega.png) | **Vitruvian Technical Equilibrium & Bottega Engine**: Proportional balance and structural systems engineering. |
+| ![Masterclass Salon](./assets/screenshots/masterclass-salon.png) | **Alchemical Data Visuals & Salon Grid**: Classical scientific diagrams married with modern web mechanics. |
 
 ---
 
@@ -209,6 +209,6 @@ Click or open the local link generated in your terminal:
 
 ---
 
-<p center>
+<p align="center">
   Made with ❤️ & Classical Passion by <b>Sriniwas Awasthi</b>
 </p>
