@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Production build
+dist
+build
+
+# Environment variables
+.env
+.env.local
+
+# Exclude image folder as explicitly requested
+public/images/
+images/
+
+# Editor & System files
+.DS_Store
+*.log
