@@ -10,9 +10,10 @@ build
 .env
 .env.local
 
-# Exclude image folder as explicitly requested
+# Exclude image & asset folders as explicitly requested
 public/images/
 images/
+assets/
 
 # Editor & System files
 .DS_Store

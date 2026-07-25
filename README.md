@@ -10,10 +10,6 @@
 
 ---
 
-![L'Accademia Hero Showcase](./assets/screenshots/hero-salon.png)
-
----
-
 ## 📖 Table of Contents
 
 - [🏛️ What is L'ACCADEMIA?](#️-what-is-laccademia)
@@ -26,7 +22,6 @@
   - [🎈 For Young Learners & Kids](#-for-young-learners--kids)
 - [🔍 Why This Method is Used (Socratic Dialectic & Humanist UX)](#-why-this-method-is-used)
 - [🧩 All Components & Features Inside](#-all-components--features-inside)
-- [🖼️ Visual Gallery](#️-visual-gallery)
 - [💻 Step-by-Step Installation Guide](#-step-by-step-installation-guide)
 - [🛠️ Tech Stack & Architecture](#️-tech-stack--architecture)
 - [💖 A Heartfelt Thank You](#-a-heartfelt-thank-you)
@@ -110,14 +105,10 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
   * Conversational AI chat with real-time response generation.
   * Quick inquiry suggestion pills (e.g., *"How does linear perspective relate to attention heads?"*).
 
-![Socrates AI Tutor Engine](./assets/screenshots/socrates-lms.png)
-
 ### 3. 🎨 Live Syllabus Architect Workshop (`CreatorBottega.tsx`)
 * Generative AI syllabus authoring blueprint.
 * Real-time module generator form with instant model addition and deletion.
 * **Chiaroscuro Cognition Metrica**: Live analytics dashboard tracking learner retention (94.2%) and active scholars.
-
-![Creator Bottega Engine](./assets/screenshots/creator-bottega.png)
 
 ### 4. 🎓 The Masterclass Salon (`CourseSalon.tsx`)
 * Curated catalog of masterclasses:
@@ -127,8 +118,6 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
   4. *Alchemical Data Visualization & Web Dashboards*
 * Filter by category (*All*, *AI & Geometry*, *Design & UX*, *Systems & Logic*).
 
-![Masterclass Salon Grid](./assets/screenshots/masterclass-salon.png)
-
 ### 5. 🏆 Pedagogical Pillars & Comparison (`PillarsSection.tsx` & `ComparisonSection.tsx`)
 * Interactive tabs exploring Socratic Dialectic, Sensory Typography, and Guild Bottegas.
 * Comprehensive comparison matrix contrasting Standard Corporate LMS with L'Accademia Engine.
@@ -136,17 +125,6 @@ Every panel, padding ratio, and serif font header strictly respects classical pr
 ### 6. 💳 Patronage & Licensing Plans (`PricingPatrons.tsx`)
 * Flexible pricing tiers (*Solo Scholar*, *Guild Studio*, *Medici Enterprise Enclave*).
 * Interactive Monthly/Annual billing switcher.
-
----
-
-## 🖼️ Visual Gallery
-
-| Visual Canvas | Topic & Description |
-| :---: | :--- |
-| ![Hero Salon](./assets/screenshots/hero-salon.png) | **The Grand Renaissance Salon**: High-contrast Garamond storytelling and interactive workspace preview. |
-| ![Socrates AI](./assets/screenshots/socrates-lms.png) | **Socrates AI Tutor**: 24/7 conversational mentor guiding students through dialectical inquiry. |
-| ![Creator Bottega](./assets/screenshots/creator-bottega.png) | **Vitruvian Technical Equilibrium & Bottega Engine**: Proportional balance and structural systems engineering. |
-| ![Masterclass Salon](./assets/screenshots/masterclass-salon.png) | **Alchemical Data Visuals & Salon Grid**: Classical scientific diagrams married with modern web mechanics. |
 
 ---
 
@@ -195,16 +173,16 @@ Click or open the local link generated in your terminal:
 
 ## 💖 A Heartfelt Thank You
 
-> ### 🌟 Thank You for Visiting L'ACCADEMIA! 💖✨
+> ### 🌟 Thank You for Exploring L'ACCADEMIA! 🎨✨
 > 
-> Thank you so much for dropping by and spending your precious time exploring my profile and repository! 💖  
-> It truly means the world to me that you took a moment out of your day to read through my work and journey. 🌿✨  
+> Thank you so much for taking your valuable time to visit **L'ACCADEMIA** and explore this project! 💖  
+> It brings me immense joy to share this passion project with you. Fusing classical Renaissance art with modern AI technology has been an incredible creative journey, and I am truly grateful that you stopped by to experience it. 🌿✨  
 > 
-> I hope you found something here that inspired you or brought a smile to your face! 🚀  
-> Building and learning is a journey I cherish, and knowing you took the time to read through it makes it all the more special. 💫  
+> Whether you came to discover new ideas, review the code, or simply explore around, I hope this repository sparks your curiosity and brightens your day! 🚀💫  
 > 
-> 🌈 If you enjoyed what you saw, feel free to connect or leave a star ⭐️  
-> Wishing you endless success and brightness in everything you do! 🚀✨ Have a fantastic day ahead! 💖🚀
+> 🌈 If you enjoyed your time here, please feel free to leave a ⭐️ **Star** on GitHub—it means the world to me and keeps the creative spirit burning bright!  
+> 
+> Wishing you endless inspiration, joy, and grand success in everything you do! 🚀✨ Have a wonderful day ahead! 💖🎨
 
 ---
 
