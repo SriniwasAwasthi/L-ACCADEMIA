@@ -1,4 +1,4 @@
-﻿# 🏛️ L'ACCADEMIA — The Renaissance Guild Academy of eLearning & AI Systems
+# 🏛️ L'ACCADEMIA — The Renaissance Guild Academy of eLearning & AI Systems
 
 [![Vite](https://img.shields.io/badge/Vite-7.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
@@ -142,15 +142,7 @@ Interactive tabs presenting 3 core pedagogical pillars:
 
 ## 🖼️ Images Folder — Visual Preview Gallery
 
-The `Images/` folder contains **9 annotated screenshots** capturing every major section of L'ACCADEMIA. Below is a full visual walkthrough:
-
----
-
-### 📸 `00-browser-context-drive.png`
-**Section:** Drive / Browser Context — Design Reference  
-**What it shows:** A screenshot of the Arc Browser sidebar showing active tabs and bookmarked design resources (Anime.js, Limora, Linear, Bar Chart UI, Stripe, React Bits, Kokonut UI, Shopify Live Globe 2025, Apple). This is the **inspiration Drive** used during development.
-
-![00 – Browser Drive](Images/00-browser-context-drive.png)
+The `Images/` folder contains **8 annotated screenshots** capturing every major section of L'ACCADEMIA. Below is a full visual walkthrough:
 
 ---
 
